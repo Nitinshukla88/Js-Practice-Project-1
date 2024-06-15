@@ -9,7 +9,7 @@ html,body{
     width: 100%;
 }
 
-.outercontainer{
+.con{
     height: 200px;
     width: 350px;
     border: 1px solid black;
